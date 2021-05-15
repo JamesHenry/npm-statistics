@@ -29,8 +29,6 @@ Thank you to https://github.com/ClearTax/npm-statistics for providing the initia
 | [angular-google-recaptcha](https://www.npmjs.com/package/angular-google-recaptcha)                               | 77460          |
 | [ng-custom-element](https://www.npmjs.com/package/ng-custom-element)                                             | 22367          |
 | [mongoose-schema-to-typescript-interface](https://www.npmjs.com/package/mongoose-schema-to-typescript-interface) | 12256          |
-| [angular-eslint](https://www.npmjs.com/package/angular-eslint)                                                   | 512            |
-| [nx-print-affected](https://www.npmjs.com/package/nx-print-affected)                                             | 89             |
-| **Sum**                                                                                                          | **2997398135** |
+| **Sum**                                                                                                          | **2997397534** |
 
 <!-- AUTO-GENERATED-CONTENT:END -->

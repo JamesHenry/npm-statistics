@@ -27,6 +27,8 @@ if (!key) {
       '@jameshenry/eslint-plugin-codelyzer',
       '@jameshenry/angular-template-parser',
       '@jameshenry/eslint-builder',
+      'angular-eslint',
+      'nx-print-affected',
     ],
   });
 
