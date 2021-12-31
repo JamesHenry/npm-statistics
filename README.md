@@ -13,25 +13,25 @@ Thank you to https://github.com/ClearTax/npm-statistics for providing the initia
 
 | Name                                                                                                               | Downloads      |
 | ------------------------------------------------------------------------------------------------------------------ | -------------- |
-| [@typescript-eslint/typescript-estree](https://www.npmjs.com/package/@typescript-eslint/typescript-estree)         | 1252291334     |
-| [@typescript-eslint/experimental-utils](https://www.npmjs.com/package/@typescript-eslint/experimental-utils)       | 1144629172     |
-| [@typescript-eslint/parser](https://www.npmjs.com/package/@typescript-eslint/parser)                               | 899845999      |
-| [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)                 | 842915615      |
-| [@typescript-eslint/types](https://www.npmjs.com/package/@typescript-eslint/types)                                 | 684966702      |
-| [@typescript-eslint/visitor-keys](https://www.npmjs.com/package/@typescript-eslint/visitor-keys)                   | 681646634      |
-| [@typescript-eslint/scope-manager](https://www.npmjs.com/package/@typescript-eslint/scope-manager)                 | 505903805      |
-| [@angular-eslint/eslint-plugin](https://www.npmjs.com/package/@angular-eslint/eslint-plugin)                       | 21922598       |
-| [@angular-eslint/eslint-plugin-template](https://www.npmjs.com/package/@angular-eslint/eslint-plugin-template)     | 20136314       |
-| [@angular-eslint/template-parser](https://www.npmjs.com/package/@angular-eslint/template-parser)                   | 17889106       |
-| [@typescript-eslint/eslint-plugin-tslint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin-tslint)   | 16589406       |
-| [@angular-eslint/builder](https://www.npmjs.com/package/@angular-eslint/builder)                                   | 14724561       |
-| [@angular-eslint/schematics](https://www.npmjs.com/package/@angular-eslint/schematics)                             | 11571295       |
-| [@angular-eslint/utils](https://www.npmjs.com/package/@angular-eslint/utils)                                       | 2325113        |
-| [@angular-eslint/bundled-angular-compiler](https://www.npmjs.com/package/@angular-eslint/bundled-angular-compiler) | 1260010        |
-| [angular-google-recaptcha](https://www.npmjs.com/package/angular-google-recaptcha)                                 | 97560          |
-| [ng-custom-element](https://www.npmjs.com/package/ng-custom-element)                                               | 24641          |
-| [mongoose-schema-to-typescript-interface](https://www.npmjs.com/package/mongoose-schema-to-typescript-interface)   | 13482          |
-| [eslint-plugin-nx-local-workspace](https://www.npmjs.com/package/eslint-plugin-nx-local-workspace)                 | 515            |
-| **Sum**                                                                                                            | **6118753862** |
+| [@typescript-eslint/typescript-estree](https://www.npmjs.com/package/@typescript-eslint/typescript-estree)         | 1254319382     |
+| [@typescript-eslint/experimental-utils](https://www.npmjs.com/package/@typescript-eslint/experimental-utils)       | 1146491052     |
+| [@typescript-eslint/parser](https://www.npmjs.com/package/@typescript-eslint/parser)                               | 901283050      |
+| [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)                 | 844245098      |
+| [@typescript-eslint/types](https://www.npmjs.com/package/@typescript-eslint/types)                                 | 686709634      |
+| [@typescript-eslint/visitor-keys](https://www.npmjs.com/package/@typescript-eslint/visitor-keys)                   | 683376184      |
+| [@typescript-eslint/scope-manager](https://www.npmjs.com/package/@typescript-eslint/scope-manager)                 | 507326235      |
+| [@angular-eslint/eslint-plugin](https://www.npmjs.com/package/@angular-eslint/eslint-plugin)                       | 21989743       |
+| [@angular-eslint/eslint-plugin-template](https://www.npmjs.com/package/@angular-eslint/eslint-plugin-template)     | 20200110       |
+| [@angular-eslint/template-parser](https://www.npmjs.com/package/@angular-eslint/template-parser)                   | 17947076       |
+| [@typescript-eslint/eslint-plugin-tslint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin-tslint)   | 16608988       |
+| [@angular-eslint/builder](https://www.npmjs.com/package/@angular-eslint/builder)                                   | 14768056       |
+| [@angular-eslint/schematics](https://www.npmjs.com/package/@angular-eslint/schematics)                             | 11609393       |
+| [@angular-eslint/utils](https://www.npmjs.com/package/@angular-eslint/utils)                                       | 2353677        |
+| [@angular-eslint/bundled-angular-compiler](https://www.npmjs.com/package/@angular-eslint/bundled-angular-compiler) | 1281985        |
+| [angular-google-recaptcha](https://www.npmjs.com/package/angular-google-recaptcha)                                 | 97652          |
+| [ng-custom-element](https://www.npmjs.com/package/ng-custom-element)                                               | 24646          |
+| [mongoose-schema-to-typescript-interface](https://www.npmjs.com/package/mongoose-schema-to-typescript-interface)   | 13485          |
+| [eslint-plugin-nx-local-workspace](https://www.npmjs.com/package/eslint-plugin-nx-local-workspace)                 | 518            |
+| **Sum**                                                                                                            | **6130645964** |
 
 <!-- AUTO-GENERATED-CONTENT:END -->
