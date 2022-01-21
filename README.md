@@ -13,27 +13,27 @@ Thank you to https://github.com/ClearTax/npm-statistics for providing the initia
 
 | Name                                                                                                               | Downloads      |
 | ------------------------------------------------------------------------------------------------------------------ | -------------- |
-| [@typescript-eslint/typescript-estree](https://www.npmjs.com/package/@typescript-eslint/typescript-estree)         | 1305030762     |
-| [@typescript-eslint/experimental-utils](https://www.npmjs.com/package/@typescript-eslint/experimental-utils)       | 1192580252     |
-| [@typescript-eslint/parser](https://www.npmjs.com/package/@typescript-eslint/parser)                               | 936981753      |
-| [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)                 | 877288561      |
-| [@typescript-eslint/types](https://www.npmjs.com/package/@typescript-eslint/types)                                 | 730869817      |
-| [@typescript-eslint/visitor-keys](https://www.npmjs.com/package/@typescript-eslint/visitor-keys)                   | 727126708      |
-| [@typescript-eslint/scope-manager](https://www.npmjs.com/package/@typescript-eslint/scope-manager)                 | 543758016      |
-| [@angular-eslint/eslint-plugin](https://www.npmjs.com/package/@angular-eslint/eslint-plugin)                       | 23611301       |
-| [@angular-eslint/eslint-plugin-template](https://www.npmjs.com/package/@angular-eslint/eslint-plugin-template)     | 21743594       |
-| [@angular-eslint/template-parser](https://www.npmjs.com/package/@angular-eslint/template-parser)                   | 19365759       |
-| [@typescript-eslint/eslint-plugin-tslint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin-tslint)   | 17107085       |
-| [@angular-eslint/builder](https://www.npmjs.com/package/@angular-eslint/builder)                                   | 15838020       |
-| [@angular-eslint/schematics](https://www.npmjs.com/package/@angular-eslint/schematics)                             | 12550749       |
-| [@typescript-eslint/type-utils](https://www.npmjs.com/package/@typescript-eslint/type-utils)                       | 3667215        |
-| [@angular-eslint/utils](https://www.npmjs.com/package/@angular-eslint/utils)                                       | 3091088        |
-| [@angular-eslint/bundled-angular-compiler](https://www.npmjs.com/package/@angular-eslint/bundled-angular-compiler) | 1909297        |
-| [@typescript-eslint/utils](https://www.npmjs.com/package/@typescript-eslint/utils)                                 | 280145         |
-| [angular-google-recaptcha](https://www.npmjs.com/package/angular-google-recaptcha)                                 | 99289          |
-| [ng-custom-element](https://www.npmjs.com/package/ng-custom-element)                                               | 24752          |
+| [@typescript-eslint/typescript-estree](https://www.npmjs.com/package/@typescript-eslint/typescript-estree)         | 1309206845     |
+| [@typescript-eslint/experimental-utils](https://www.npmjs.com/package/@typescript-eslint/experimental-utils)       | 1196253993     |
+| [@typescript-eslint/parser](https://www.npmjs.com/package/@typescript-eslint/parser)                               | 939886597      |
+| [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)                 | 879972808      |
+| [@typescript-eslint/types](https://www.npmjs.com/package/@typescript-eslint/types)                                 | 734521249      |
+| [@typescript-eslint/visitor-keys](https://www.npmjs.com/package/@typescript-eslint/visitor-keys)                   | 730743493      |
+| [@typescript-eslint/scope-manager](https://www.npmjs.com/package/@typescript-eslint/scope-manager)                 | 546780107      |
+| [@angular-eslint/eslint-plugin](https://www.npmjs.com/package/@angular-eslint/eslint-plugin)                       | 23751632       |
+| [@angular-eslint/eslint-plugin-template](https://www.npmjs.com/package/@angular-eslint/eslint-plugin-template)     | 21874933       |
+| [@angular-eslint/template-parser](https://www.npmjs.com/package/@angular-eslint/template-parser)                   | 19487702       |
+| [@typescript-eslint/eslint-plugin-tslint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin-tslint)   | 17149654       |
+| [@angular-eslint/builder](https://www.npmjs.com/package/@angular-eslint/builder)                                   | 15929574       |
+| [@angular-eslint/schematics](https://www.npmjs.com/package/@angular-eslint/schematics)                             | 12631200       |
+| [@typescript-eslint/type-utils](https://www.npmjs.com/package/@typescript-eslint/type-utils)                       | 4091349        |
+| [@angular-eslint/utils](https://www.npmjs.com/package/@angular-eslint/utils)                                       | 3157488        |
+| [@angular-eslint/bundled-angular-compiler](https://www.npmjs.com/package/@angular-eslint/bundled-angular-compiler) | 1965835        |
+| [@typescript-eslint/utils](https://www.npmjs.com/package/@typescript-eslint/utils)                                 | 526535         |
+| [angular-google-recaptcha](https://www.npmjs.com/package/angular-google-recaptcha)                                 | 99458          |
+| [ng-custom-element](https://www.npmjs.com/package/ng-custom-element)                                               | 24757          |
 | [mongoose-schema-to-typescript-interface](https://www.npmjs.com/package/mongoose-schema-to-typescript-interface)   | 13562          |
 | [eslint-plugin-nx-local-workspace](https://www.npmjs.com/package/eslint-plugin-nx-local-workspace)                 | 532            |
-| **Sum**                                                                                                            | **6432938257** |
+| **Sum**                                                                                                            | **6458069303** |
 
 <!-- AUTO-GENERATED-CONTENT:END -->
