@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "NPM",
-  "message": "18340051509 Downloads",
+  "message": "feign.FeignException$ServiceUnavailable: status 503 reading SearchClient#search(String) Downloads",
   "color": "orange",
   "style": "for-the-badge",
   "namedLogo": "npm"
