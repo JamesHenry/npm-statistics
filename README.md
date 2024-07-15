@@ -11,12 +11,12 @@ Thank you to https://github.com/ClearTax/npm-statistics for providing the initia
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 
-| Name                                                 | Downloads                                                                            |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                |
-| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                        |
-| [status](https://www.npmjs.com/package/status)       | 0                                                                                    |
-| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-06-14T00:17:49.808+00:00                                                        |
-| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-06-14T00:17:49.808+00:00** |
+| Name                                                 | Downloads                                                                   |
+| ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                       |
+| [path](https://www.npmjs.com/package/path)           | /api/download-counts                                                        |
+| [status](https://www.npmjs.com/package/status)       | 0                                                                           |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-07-15T00:20:11.821+00:00                                               |
+| **Sum**                                              | **Internal Server Error/api/download-counts02024-07-15T00:20:11.821+00:00** |
 
 <!-- AUTO-GENERATED-CONTENT:END -->
